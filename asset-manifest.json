@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/trip-tour/static/css/main.9b076174.css",
-    "main.js": "/trip-tour/static/js/main.4fbd4488.js",
+    "main.js": "/trip-tour/static/js/main.ba3647a9.js",
     "static/js/453.2f0131f6.chunk.js": "/trip-tour/static/js/453.2f0131f6.chunk.js",
     "static/media/des2.jpg": "/trip-tour/static/media/des2.abcdeaf3b3f59a950cd4.jpg",
     "static/media/des3.jpeg": "/trip-tour/static/media/des3.639cd9e8aac9b379ae2a.jpeg",
@@ -15,11 +15,11 @@
     "static/media/c1.jpeg": "/trip-tour/static/media/c1.f40f752e265436f465d4.jpeg",
     "index.html": "/trip-tour/index.html",
     "main.9b076174.css.map": "/trip-tour/static/css/main.9b076174.css.map",
-    "main.4fbd4488.js.map": "/trip-tour/static/js/main.4fbd4488.js.map",
+    "main.ba3647a9.js.map": "/trip-tour/static/js/main.ba3647a9.js.map",
     "453.2f0131f6.chunk.js.map": "/trip-tour/static/js/453.2f0131f6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9b076174.css",
-    "static/js/main.4fbd4488.js"
+    "static/js/main.ba3647a9.js"
   ]
 }
